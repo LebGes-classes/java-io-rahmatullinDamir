@@ -1,0 +1,101 @@
+[
+  {
+    "nameOfStudent": "Сушков П.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Ким Д.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Файрушин Т.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Курмаев А.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Нуриев Б.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Тарасов Т.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Бережная С.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Ежиков К.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Яхудина Э",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Зимнякова П.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Рахматуллин Д.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Хамидуллин М.",
+    "attendance": {
+      "06.04.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Юлдынова Ю.",
+    "attendance": {
+      "06.04.24": "+",
+      "06.08.24": "+",
+      "06.09.24": "+"
+    }
+  },
+  {
+    "nameOfStudent": "Забинский Д.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Арсланов К.",
+    "attendance": {
+      "06.04.24": "-"
+    }
+  },
+  {
+    "nameOfStudent": "Хусаенов Р.",
+    "attendance": {
+      "06.04.24": "+",
+      "06.05.24": "+"
+    }
+  }
+]

@@ -1,0 +1,197 @@
+[
+  {
+    "nameOfStudent": "Сушков П.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Ким Д.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Файрушин Т.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Курмаев А.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Нуриев Б.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Тарасов Т.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Bibic.E.A."
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Бережная С.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "\"English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Ежиков К.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "\"English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Яхудина Э",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "\"English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Зимнякова П.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "\"English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Рахматуллин Д.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Хамидуллин М.",
+    "attendance": {
+      "06.04.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Юлдынова Ю.",
+    "attendance": {
+      "06.04.24": "+",
+      "06.08.24": "+",
+      "06.09.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Забинский Д.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Арсланов К.",
+    "attendance": {
+      "06.04.24": "-"
+    },
+    "teacher": {
+      "nameOfTeacher": "Chripcova D.I"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  },
+  {
+    "nameOfStudent": "Хусаенов Р.",
+    "attendance": {
+      "06.04.24": "+",
+      "06.05.24": "+"
+    },
+    "teacher": {
+      "nameOfTeacher": "Churununa.A.A"
+    },
+    "subject": {
+      "subjectName": "English Language"
+    }
+  }
+]
